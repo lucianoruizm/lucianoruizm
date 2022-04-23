@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lucianoruizm
-- 👀 I’m interested in Videogames
+- 👀 I’m interested in Videogames, FullStack Development, Applications
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on the community (someday)
-- 📫 How to reach me: for the moment in Black Mesa
+- 💞️ I’m looking to collaborate on the community
+- 📫 How to reach me: lucianoruizm993@gmail.com Or maybe at Black Mesa 
 
 <!---
 lucianoruizm/lucianoruizm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
