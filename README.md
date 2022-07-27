@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucianoruizm
-- 👀 I’m interested in Videogames, FullStack Development, Applications
+- 👀 I’m interested in Videogames, FullStack Web Development and Applications
 - 🌱 I'm a Systems Analyst and I'm always learning programming
 - 💞️ I’m looking to collaborate on the community
 - 📫 How to reach me: lucianoruizm993@gmail.com Or maybe at Black Mesa 
