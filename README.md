@@ -2,7 +2,7 @@
 - 👀 I’m interested in Videogames, FullStack Web Development and Applications
 - 🌱 I'm a Systems Analyst and I'm always learning programming
 - 💞️ I’m looking to collaborate on the community
-- 📫 How to reach me: lucianoruizm993@gmail.com Or maybe at Black Mesa 
+- 📫 How to reach me: lucianoruizm993@gmail.com
 
 <!---
 lucianoruizm/lucianoruizm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
