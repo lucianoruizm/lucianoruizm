@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucianoruizm
 - 👀 I’m interested in Web Development, applications and Videogames
 - 🌱 Systems Analyst and always learning to code
-- 💞️ I’m looking to collaborate on the community and get a good job
+- 💞️ I’m looking to collaborate on the community
 - 📫 How to reach me: lucianoruizm993@gmail.com
 
 <!---
